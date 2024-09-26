@@ -1,0 +1,1 @@
+:root{--main-color-purple: #5243f4;--main-color-dark-purple: #3f2fe9;--main-color-brown: #5d3427}*{margin:0;padding:0}@font-face{font-family:Steppe-Book;src:url(Steppe-Book.a7fc3ee738d3939e.ttf)}@font-face{font-family:Steppe-ExtraBold;src:url(Steppe-ExtraBold.d7d0d0d019baac67.ttf)}body{background-color:var(--main-color-purple);font-family:Steppe-Book,sans-serif;color:#fff}
